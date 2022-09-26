@@ -1,0 +1,7 @@
+C:\Users\akbar\source\repos\Tugas1_PBO\Tugas1_PBO\bin\Debug\Tugas1_PBO.exe.config
+C:\Users\akbar\source\repos\Tugas1_PBO\Tugas1_PBO\bin\Debug\Tugas1_PBO.exe
+C:\Users\akbar\source\repos\Tugas1_PBO\Tugas1_PBO\bin\Debug\Tugas1_PBO.pdb
+C:\Users\akbar\source\repos\Tugas1_PBO\Tugas1_PBO\obj\Debug\Tugas1_PBO.csprojAssemblyReference.cache
+C:\Users\akbar\source\repos\Tugas1_PBO\Tugas1_PBO\obj\Debug\Tugas1_PBO.csproj.CoreCompileInputs.cache
+C:\Users\akbar\source\repos\Tugas1_PBO\Tugas1_PBO\obj\Debug\Tugas1_PBO.exe
+C:\Users\akbar\source\repos\Tugas1_PBO\Tugas1_PBO\obj\Debug\Tugas1_PBO.pdb
